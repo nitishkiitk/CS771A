@@ -1,0 +1,14 @@
+All the code has been written on python3
+
+Libraries need to run the code:
+Numpy
+Scikit-Learn
+
+For Method-1 the file name is convex.py
+For Mwthod-2 the file name is regress.py
+
+Before running the code check the path of npy files at top of code in each files
+
+After running the code it will print following things:
+1. the shape of all the npy and means shapes
+2. in convex.py only accuracy and in regress.py it will print accuracy for every lambda and also max accuracy and it's corresponding lambda
